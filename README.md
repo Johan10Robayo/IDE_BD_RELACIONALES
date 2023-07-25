@@ -12,4 +12,4 @@ Desarrollo de un Entorno de Desarrollo Integrado (IDE) de escritorio para bases 
 ![Login](https://raw.githubusercontent.com/Johan10Robayo/IDE_BD_RELACIONALES/main/Mockups/Login.png)
 
 ## Panel de administración del usuario
-![Admin]()
+![Admin](https://raw.githubusercontent.com/Johan10Robayo/IDE_BD_RELACIONALES/main/Mockups/view.png)
